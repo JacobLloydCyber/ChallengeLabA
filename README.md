@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-** This lab reflects Challenge Lab A in the 'Linux Essentials' course from the Network Development Group (NDG). **
+** This lab reflects Challenge Lab A in the 'Linux Essentials' course from the Network Development Group. **
 
 The purpose of this lab... demonstrate proficiency of the creation and maintenance of user accounts, directories, and files, as well as the management of permissions to influence proper access and control within the filesystem.
 <br />
