@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-The purpose of this lab... demonstrate proficiency with the creation and maintenance of user accounts, directories, and files, as well as the management of permissions to influence proper access and control within the filesystem.
+The purpose of this lab... demonstrate proficiency of the creation and maintenance of user accounts, directories, and files, as well as the management of permissions to influence proper access and control within the filesystem.
 <br />
 
 <h2>Key Points Within Lab: </h2>
@@ -31,49 +31,49 @@ Viewing the dashboard of AD server manager and all configured services on the do
 
 <p align="center">
 3rd photo <br/>
-<img src="https://i.imgur.com/kt0HOxz.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/diJqe7a.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 4444444  <br/>
-<img src="https://i.imgur.com/yv9jrfE.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/daHmp6x.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 5555555  <br/>
-<img src="https://i.imgur.com/wzeD7oU.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/L8T4RPl.png height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 6666666  <br/>
-<img src="https://i.imgur.com/PLMNy8x.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/pAdFmz3.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 77777777  <br/>
-<img src="https://i.imgur.com/jEC9dtO.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/DcLt3dC.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 88888888  <br/>
-<img src="https://i.imgur.com/uwAzTd3.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/AJiP1Mk.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 99999999  <br/>
-<img src="https://i.imgur.com/W93VU7w.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/xN7jJhO.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
 100000000000  <br/>
-<img src="https://i.imgur.com/ULPBkFa.png" height="80%" width="80%" alt="LinChallLab"/>
+<img src="https://i.imgur.com/pSKzpu8.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
