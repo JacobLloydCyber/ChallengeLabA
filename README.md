@@ -13,10 +13,10 @@ The purpose of this lab is to demonstrate proficiency while creating new user ac
 
 <h2>Key Points Within Lab: </h2>
 
-- <b>Put... </b>
-- <b>In.... </b>
-- <b>Work.... </b>
-- <b>Put... </b>
+- <b>Creation of three new departments by creating three new directories and groups, with three users in each group.</b>
+- <b>Setting directory permissions which grant users full access in departments they belong to and no access in other departments.  </b>
+- <b>Creating files that belong to each department and using permissions to ensure that those files can be only be deleted by their respective owners.  </b>
+- <b>Put....  </b>
 - <b>In... </b>
 - <b>Work... </b>
 
