@@ -1,4 +1,4 @@
-<h1>Challenge Lab A: UNDER CONSTRUCTION!!!</h1>
+<h1>Challenge Lab A: User Management</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
@@ -15,33 +15,31 @@ The purpose of this lab is to demonstrate proficiency while creating new user ac
 
 - <b>Creation of three new departments by creating three new directories and groups, with three users in each group.</b>
 - <b>Setting directory permissions which grant users full access in departments they belong to and no access in other departments.  </b>
-- <b>Creating files that belong to each department and using permissions to ensure that those files can be only be deleted by their respective owners.  </b>
-- <b>Put....  </b>
-- <b>In... </b>
-- <b>Work... </b>
+- <b>Creating files that are owned by each department and utilizing sticky bit to ensure the protection of those files. </b>
+- <b>Delete?  </b>
 
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Pictured below is..... <br/>
+To begin the lab, I utilize mkdir to create the three new directories of Engineering, Sales, and IT, which are the departments that are being added to the Linux server. Please note that for the completion of this lab, I am using the root account to avoid having any permissions denied. Freely using the root account is considered a bad security practice and is not advised in situations where security is a prime concern. However, I am working within a protected lab environment where the use of root is not so dangerous. <br/>
 <img src="https://i.imgur.com/OBocBYB.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-Viewing the dashboard of AD server manager and all configured services on the domain controller:  <br/>
+In addition to directories, I also need to create specific groups for each department that will house the users which belong to those departments. By using a string of the groupadd commands, I am able to create a group for Engineering, Sales, and IT. Additionally, I am able to verify that those groups were created properly by checking the /etc/group file.  <br/>
 <img src="https://i.imgur.com/OAZucGb.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-3rd photo <br/>
+By running "cat /etc/group", I am able to check the contents of the /etc/group file. Denoted in the highlighted portion of the screenshot is an entry for each group that we created, meaning that they were successfully added to the system. <br/>
 <img src="https://i.imgur.com/diJqe7a.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-4444444  <br/>
+At this point in the lab, it is time to create the user accounts that will be added to the groups that we made.   <br/>
 <img src="https://i.imgur.com/daHmp6x.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
