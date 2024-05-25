@@ -62,19 +62,18 @@ In this screenshot, I am creating a simple text file and placing it within the d
 <br />
 
 <p align="center">
-88888888  <br/>
-<img src="https://i.imgur.com/AJiP1Mk.png" height="80%" width="80%" alt="LinChallLab"/>
-<br />
-<br />
-
-<p align="center">
-99999999  <br/>
+In this image, I am adjusting both the ownership of the files that I previously created, and altering the permissions of those files as well. Since I created the files while on the root account, they initially belong to the user and group of 'root'. By using the chown command again, I am able to place the files within the group that they should belong to (Engineering, Sales, or IT), and I am also able give file ownership to the respective administrative user. After applying this first change, we can now see that instead of belonging to 'root', each file now belongs to a specific department and is owned by the admin of that department. In order to adjust the permissions of the files, I used the command "chmod 740". This changes the file permissions so that the administrative users have full ability to read, change, or delete the document; other department members are able to access the document for reading purposes but are unable to alter the document in any fashion; and all other users who do not belong to the department have no access to the file whatsoever.  <br/>
 <img src="https://i.imgur.com/xN7jJhO.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-100000000000  <br/>
+This final screenshot is meant to serve as a full breakdown of the lab by showcasing the following information: 
+
+ - FILL IN WITH WHAT THE PIC SHOWS AND THE REQUIREMENTS THAT YOU MET
+ -
+ - 
+<p align="center">
 <img src="https://i.imgur.com/pSKzpu8.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
