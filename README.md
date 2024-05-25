@@ -16,7 +16,6 @@ The purpose of this lab is to demonstrate proficiency while creating new user ac
 - <b>Creation of three new departments by creating three new directories and groups, with three users in each group.</b>
 - <b>Setting directory permissions which grant users full access in departments they belong to and no access in other departments.  </b>
 - <b>Creating files that are owned by each department and utilizing sticky bit to ensure the protection of those files. </b>
-- <b>Delete?  </b>
 
 <h2>Lab walk-through:</h2>
 
@@ -39,25 +38,25 @@ By running "cat /etc/group", I am able to check the contents of the /etc/group f
 <br />
 
 <p align="center">
-At this point in the lab, it is time to create the user accounts that will be added to the groups that we made.   <br/>
+At this point in the lab, it is time to create the user accounts that will be added to the groups that we made. Utilizing the useradd command, I am able to add two regular users and one administrative user to each group. By using the tags -m, -s, and -g, I am able to designate a home directory for each user, make each users default shell /bin/bash, and ensure that the group that they have been added to is their primary group. After administering these commands, we are able to see the existence of all the created users when looking inside of /home.<br/>
 <img src="https://i.imgur.com/daHmp6x.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-5555555  <br/>
+With the users, directories, and groups all created, it is time to assign ownership of each directory to the respective admin of each department. By employing the chown command, I am able to make the following changes: placing ownership of the engineering directory with the engineering admin, placing ownership of the sales directory with the sales admin, and placing ownership of the IT directory with the IT admin. Now, when checking the permissions of these directories, we are able to confirm that each department belongs to the appropriate group and owner.  <br/>
 <img src="https://i.imgur.com/L8T4RPl.png height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-6666666  <br/>
+In this screenshot, I am controlling directory access by adjusting the permissions that are associated with each directory. The lab tasked us with setting permissions so that department members have full access to their own directory, but no access in directories that they do not belong to. By administering 'chmod 1770' to each directory, I am able to grant full read, write, and execute permissions to the owner and group members of a directory, while also disabling access to individuals who are not within that department group. Additionally, that command also applies the sticky bit to each directory, meaning that files within the directory can only be deleted by their respective owners, thus helping to protect info that belongs to each department.  <br/>
 <img src="https://i.imgur.com/pAdFmz3.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
 
 <p align="center">
-77777777  <br/>
+In this screenshot, I am creating a simple text file and placing it within the directory of each department. Although the content of each text file is the same, they are three different files which simply serve to showcase that each department possesses some sort of their own information. By checking the output and the path of each file, I am able to confirm that all of the text files were properly created and assigned to the appropriate departments.<br/>
 <img src="https://i.imgur.com/DcLt3dC.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
