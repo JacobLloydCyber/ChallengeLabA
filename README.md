@@ -68,11 +68,11 @@ In this image, I am adjusting both the ownership of the files that I previously 
 <br />
 
 <p align="center">
-This final screenshot is meant to serve as a full breakdown of the lab by showcasing the following information: 
+This final screenshot is meant to serve as a full breakdown of the lab by showcasing the following information: <br />
 
- - FILL IN WITH WHAT THE PIC SHOWS AND THE REQUIREMENTS THAT YOU MET
- -
- - 
+- FILL IN WITH WHAT THE PIC SHOWS AND THE REQUIREMENTS THAT YOU MET
+- NEXT
+- NEXT
 <p align="center">
 <img src="https://i.imgur.com/pSKzpu8.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
