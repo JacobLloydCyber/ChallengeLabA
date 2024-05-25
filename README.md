@@ -73,7 +73,7 @@ Nearing the end of the lab, I am now adjusting both the ownership and the permis
 <p align="center">
 This final screenshot is meant to serve as a full breakdown of the lab by showcasing the following information: <br />
 
-- Creation of directories for Engineering, Sales, and IT. Read, write, and execute permissions set for users and groups, no permissions set for other accounts. Sticky bit activited for each directory.
+- Creation of directories for Engineering, Sales, and IT. Directory permissions set which grant the ability to read, write, and execute for department users and groups, while no permissions are granted to outside users of other departments. Sticky bit activited for each directory.
 - Existence of a text document within each department directory. Document permissions set so department users and groups have access to their own text files, while other users have no access to text files that do not belong to their department.
 - NEXT
 <p align="center">
