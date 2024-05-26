@@ -73,9 +73,9 @@ Nearing the end of the lab, I am now adjusting both the ownership and the permis
 <p align="center">
 This final screenshot is meant to serve as a full breakdown of the lab by showcasing the following information: <br />
 
-- Creation of directories for Engineering, Sales, and IT. Directory permissions set which grant the ability to read, write, and execute for department users and groups, while no permissions are granted to outside users of other departments. Sticky bit activited for each directory.
+- Creation of directories for Engineering, Sales, and IT. Directory permissions set granting the ability to read, write, and execute for users and groups belonging to the department. No permissions granted to users of other departments. Sticky bit applied to each directory.
 - Existence of a text document within each department directory. Document permissions set so department users and groups have access to their own text files, while other users have no access to text files that do not belong to their department.
-- NEXT
+- Each directory and its corresponding documents are within the ownership of the respective department administrator.
 <p align="center">
 <img src="https://i.imgur.com/pSKzpu8.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
