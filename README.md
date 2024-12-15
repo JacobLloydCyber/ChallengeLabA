@@ -23,7 +23,7 @@ The purpose of this lab is to demonstrate proficiency while creating new user ac
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-To begin the lab, I utilize 'mkdir' to create three new directories called "Engineering", "Sales", and "IT". These are the departments which I will be adding to the Linux server. Please note that for the completion of this lab, I am using the root account to avoid having any permissions denied while running certain commands. But it is important to remember that root should be used with caution, and freely executing commands as root is generally a bad security practice.  <br/>
+To begin the lab, I utilize 'mkdir' to create three new directories called "Engineering", "Sales", and "IT". These are the departments which I will be adding to the Linux server. Please note that for the completion of this lab, I am using the root account to avoid having any permissions denied while running certain commands. It is important to remember that root should be used with caution, and freely executing commands as root is generally a bad security practice.  <br/>
 <img src="https://i.imgur.com/OBocBYB.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
@@ -35,7 +35,7 @@ After creating the directories, I need to create the groups that will house the 
 <br />
 
 <p align="center">
-In this image, I am displaying the contents of the /etc/group file to the screen. Within the highlighted portion of the screenshot is an entry for Engineering, Sales, and IT. This means that the groups were successfully added to the system. <br/>
+In this image, I am displaying the contents of the /etc/group file to the screen. Within the highlighted portion of the screenshot is an entry for Engineering, Sales, and IT. This indicates that the groups were successfully added to the system. <br/>
 <img src="https://i.imgur.com/diJqe7a.png" height="80%" width="80%" alt="LinChallLab"/>
 <br />
 <br />
