@@ -1,6 +1,6 @@
 <h1>Challenge Lab A: User Management</h1>
 <!--
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtu.be/INSERT-DEMO-LINK-HERE)
 --!>
 
 <h2>Description</h2>
